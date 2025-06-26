@@ -8,9 +8,9 @@ st.set_page_config(
 )
 
 # 커스텀 CSS 스타일 정의
-st.markdown("""
-<h1 style='color:red;'>포켓몬 도감</h1>
-""", unsafe_allow_html=True)
+# st.markdown("""
+# <h1 style='color:red;'>포켓몬 도감</h1>
+# """, unsafe_allow_html=True)
 
 st.markdown("""
 <style>
