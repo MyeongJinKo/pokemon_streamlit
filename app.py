@@ -17,11 +17,6 @@ st.markdown("""
 img {
 	max-height: 300px;
 }
-.stVerticalBlock div {
-    display: flex;
-    justify-content: center;
-}
-
 </style>
 """, unsafe_allow_html=True)
 
